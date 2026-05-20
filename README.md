@@ -1,1 +1,1 @@
-# Swift-homeworks by Alex Skutarenko
+# Swift-homeworks
