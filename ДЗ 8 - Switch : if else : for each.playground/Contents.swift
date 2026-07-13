@@ -74,7 +74,7 @@ for i in (1...5).reversed() {
 
 // В switch и отдельно в if создать систему оценивания школьников по 12 бальной системе и и высказывать через print мнение
 
-let score = 8
+let score = 10
 
 if score >= 11 {
     print("Отлично")
@@ -128,3 +128,5 @@ print(namesFamily.sorted())
 for name in namesFamily.sorted() {
     print(name)
 }
+
+print(namesFamily.sorted().joined(separator: ", "))
